@@ -1,6 +1,6 @@
 package day3
 
 fun main() {
-    val coffeeShopName = "Starbuzz"
-    println("Welcome to $coffeeShopName!")
+    val fovoritecoffetype = "Cappuccino"
+    println("fovorite coffetype(lowercase):${fovoritecoffetype.lowercase()}")
 }
